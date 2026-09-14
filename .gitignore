@@ -1,0 +1,15 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 虚拟环境（本项目不要求创建）
+.venv/
+venv/
+
+# 可重复生成的教学数据
+_practice_output/
+
+# 编辑器和操作系统临时文件
+.idea/
+.DS_Store
+Thumbs.db
