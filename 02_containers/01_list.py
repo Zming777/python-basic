@@ -1,6 +1,6 @@
 # 列表按顺序保存多个值，可以添加、删除和修改。
 # 场景：记录待办事项、成绩或购物清单。
-print(f"222")
+print(f"111")
 print(f"this is my first to create branch into githun!")
 print(f"zzm12")
 fruits = ["苹果", "香蕉", "橘子"]
